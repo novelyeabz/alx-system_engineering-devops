@@ -1,2 +1,2 @@
 #!/bin/bash
--IR PATH
+ls -l .PATH/
